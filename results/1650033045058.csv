@@ -1,0 +1,4 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99,9%)","Unit"
+"stringvsstringbuffervsstringbuilder.BenchmarksToString.stringBuffer","avgt",1,5000,"17,744199","0,208501","ns/op"
+"stringvsstringbuffervsstringbuilder.BenchmarksToString.stringBuilder","avgt",1,5000,"18,250002","0,267876","ns/op"
+"stringvsstringbuffervsstringbuilder.BenchmarksToString.stringClass","avgt",1,5000,"1,843418","0,010478","ns/op"
